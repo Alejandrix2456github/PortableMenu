@@ -1,0 +1,6 @@
+1.Get Python from https://python.org
+2.Get Git from https://git-scm.com/ (or it may be installed)
+3.in git CMD or Bash type the next commands:
+pip install ttkthemes
+pip install tkinter (its incluided with Python)
+4.If pip needs a update find a way to update it
